@@ -30,7 +30,7 @@ A dynamic web application similar to Google Forms, built using **Java Servlets, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mahesha-br/FormBuilderApp.git
+git clone https://github.com/kishore-sv/FormBuilderApp.git
 cd FormBuilderApp
 ```
 
